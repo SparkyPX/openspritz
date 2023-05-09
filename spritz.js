@@ -16,7 +16,7 @@ function create_spritz(){
         //getURL("spritz.html", function(data){
 
         //getURL("https://rawgithub.com/Miserlou/OpenSpritz/dev/spritz.html", function(data){
-        getURL("https://raw.githubusercontent.com/Zelai/openspritz/main/spritz.html", function(data){
+        getURL("https://zelai.github.io/openspritz/spritz.html", function(data){
             var spritzContainer = document.getElementById("spritz_container");
 
             if (!spritzContainer) {
