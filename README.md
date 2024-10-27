@@ -9,6 +9,4 @@ OpenSpritz is an extremely crude implementation of [Spritz](http://www.spritzinc
 * Spritz-type speed reading
 * Word length and grammar-aware speed reading
 * WPM selector
-* Cross-browser bookmarklet
-* Text-selection aware
 * Readabilty-based article extraction
