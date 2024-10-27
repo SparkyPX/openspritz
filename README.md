@@ -2,7 +2,7 @@
 
 # OpenSpritz
 
-OpenSpritz is an extremely crude implementation of [Spritz](http://www.spritzinc.com/) in JavaScript. It works as a bookmarklet to add Spritz-type speed reading to every page.
+OpenSpritz is an extremely crude implementation of [Spritz](http://www.spritzinc.com/) in JavaScript.
 
 ## Features
 
